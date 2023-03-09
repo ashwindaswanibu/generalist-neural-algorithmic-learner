@@ -1,3 +1,3 @@
 # generalist-neural-algorithmic-learner
 
-[Some title here](final_report.pdf)
+[Report](final_report.pdf)
