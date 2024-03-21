@@ -29,14 +29,6 @@ Install the required packages using the following command:
 pip install -r requirements.txt
 ```
 
-
-
-## Repository Structure
-- `/models`: Contains the trained models and their parameters.
-- `/experiments`: Includes Jupyter notebooks or scripts used for single-task and multi-task experiments.
-- `/src`: Houses the source code for the Generalist Neural Algorithmic Learner.
-- `/data`: Dataset used for training and evaluation, based on the CLRS30 benchmark.
-
 ## Usage
 To use the Generalist Neural Algorithmic Learner, navigate to the `/src` directory and follow the instructions provided there for running the various experiments.
 
